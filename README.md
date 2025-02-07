@@ -40,3 +40,6 @@ Upload the Arduino code for object recognition.
 Train HUSKYLENS on objects using the HUSKYLENS app.
 
 Once the objects are recognized, Arduino can use the information to perform specific actions.
+
+# Short Video For The huskylens task
+https://youtube.com/shorts/4aVvaPdSpsE?si=pbBEJ9MeRoQX6uqB
