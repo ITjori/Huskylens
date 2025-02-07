@@ -34,6 +34,9 @@ If the object is successfully recognized, the Arduino will print the name in the
 
 ## **Summary:**
 Connect HUSKYLENS to Arduino Uno using the appropriate wiring.
+
 Upload the Arduino code for object recognition.
+
 Train HUSKYLENS on objects using the HUSKYLENS app.
+
 Once the objects are recognized, Arduino can use the information to perform specific actions.
